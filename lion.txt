@@ -1,0 +1,4 @@
+name : Gado
+age : 31
+gender : male
+height : 184
