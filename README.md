@@ -10,7 +10,7 @@
 ### 4. Local에 받은 레포지토리 ```git log --oneline```으로 로그(커밋) 확인하기
 
 
-### 5. ```dog.txt```의 ```youtube link```를 지우기 전으로 돌아가서 확인하고 링크로 들어가 구독누르기 (참고 : https://mintaku.tistory.com/12)
+### 5. ```dog.txt```의 ```youtube link```를 지우기 전의 커밋으로 돌아가서 ```youtube link```를 확인하고 링크로 들어가 구독누르기 (참고 : https://mintaku.tistory.com/12)
    * 로그들을 잘 읽어본 뒤 알맞는 로그로 돌아갈 것!!
 
 
