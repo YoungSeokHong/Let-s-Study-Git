@@ -1,0 +1,4 @@
+name : Mintae
+age : 25
+gender : male
+height : 184
