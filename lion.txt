@@ -1,4 +1,4 @@
-name : Mintae
-age : 25
+name : Gado
+age : 31
 gender : male
 height : 184
