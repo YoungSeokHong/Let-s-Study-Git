@@ -1,0 +1,4 @@
+name : long
+age : 40
+gender : male
+height : 176
